@@ -1450,7 +1450,7 @@ a:focus-visible, button:focus-visible, [tabindex]:focus-visible {
   text-shadow: none;
   
 }
-@media (min-width: 480px) { .kalvettu p { font-size: 19px; } }
+@media (min-width: 480px) { .kalvettu p { font-size: 15px; } }
 @media (min-width: 768px) { .kalvettu { padding: 52px 44px; } .kalvettu p { font-size: 28px; } }
 
 /* Feather-quote — now attaches to the History text box, not the
