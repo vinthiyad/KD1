@@ -722,7 +722,7 @@ const TEMPLE_CONTENT = {
 
     subCaption: {
       en: "Pillars of Temple Service",
-      ta: "ஆலயப் பணிக்குழு உறுப்பினர்கள்"
+      ta: "ஆலயப் பணிக்குழு"
     },
     
     members: [
